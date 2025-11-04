@@ -10,15 +10,21 @@
 
 ### 🖥️ Моя рабочая среда
 
-# ~/dotfiles/ 
 os: Arch Linux x86_64
+
 de: Hyprland
+
 wm: Hyprland
+
 terminal: kitty
+
 shell: zsh
+
 editor: neovim
+
 theme: Catppuccin-Mocha
-📦 Установленные пакеты:
+
+Установленные пакеты: 3265 (pacman)
 
 ### 🛠️ Мой Tech Stack
 
