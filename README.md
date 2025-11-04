@@ -82,9 +82,7 @@
 
 | Проект | Описание | Стек |
 | :--- | :--- | :--- |
-| **[Название проекта](https://github.com/laguser/your-project)** | Современное веб-приложение с полным циклом разработки | `React`, `TypeScript`, `Node.js`, `PostgreSQL` |
-| **[Мобильное приложение](https://github.com/laguser/your-mobile-app)** | Кроссплатформенное React Native приложение | `React Native`, `Redux`, `Firebase` |
-| **[API Сервис](https://github.com/laguser/your-api)** | Масштабируемый бэкенд на NestJS | `NestJS`, `MongoDB`, `Docker` |
+| **[NeonPaste](https://laguserdev.pythonanywhere.com/)** | Современное веб-приложение для обмена текстом и кодом | `React`, `TypeScript`, `Node.js`, `PostgreSQL` |
 
 ---
 
