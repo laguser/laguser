@@ -1,109 +1,34 @@
 <p align="center">
-  <img src="assets/avatar.png" width="96" alt="laguser">
+  <img src="assets/avatar.png" width="80" alt="laguser">
 </p>
 
-<h1 align="center">laguser</h1>
+<h2 align="center">laguser</h2>
 
 <p align="center">
-  <sub><i>minimalist · quiet · focused</i></sub>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="assets/divider.png">
-</p>
-
-<p align="center">
-  <img src="assets/dot.gif">
-</p>
-
-<p align="center">
-  <img src="assets/divider.png">
-</p>
-
-<br>
-
-<h3 align="center">Projects</h3>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Ink</b></td>
-    <td>Minimalist markdown editor for macOS.<br>Built with SwiftUI + AppKit. No chrome, no clutter.</td>
-    <td><a href="https://github.com/laguser/ink"><code>→</code></a></td>
-  </tr>
-</table>
-
-<br>
-
-<h3 align="center">Skills</h3>
-
-<p align="center">
-  <code>Swift</code> · <code>SwiftUI</code> · <code>AppKit</code> · <code>Python</code> · <code>Git</code> · <code>Bash</code>
-</p>
-
-<p align="center">
-  <code>macOS</code> · <code>Linux</code> · <code>iOS</code> · <code>Web</code>
-</p>
-
-<br>
-
-<h3 align="center">Philosophy</h3>
-
-<p align="center">
-  <sub>
-    clean code · clean design · clean mind<br>
-    build tools you'd use yourself<br>
-    say more with less
-  </sub>
+  <i>craft, don't clutter</i>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="assets/divider.png">
-</p>
-
-<h3 align="center">Currently</h3>
-
-<p align="center">
-  <sub>
-    building <b>Ink</b> — a writing app for people who love to write<br>
-    exploring plugin systems, markdown parsing, and CoreAudio
-  </sub>
-</p>
-
-<br>
-
-<h3 align="center">Interests</h3>
-
-<p align="center">
-  <sub>
-    text editors · typography · sound design · ui minimalism ·<br>
-    programming languages · static sites · plain text
-  </sub>
+  building quiet tools for a noisy world<br>
+  <a href="https://github.com/laguser/ink">Ink</a> — minimalist markdown editor
 </p>
 
 <br>
 
 <p align="center">
-  <img src="assets/divider.png">
-</p>
-
-<p align="center">
-  <code>vim > emacs</code>
-</p>
-
-<p align="center">
-  <img src="assets/divider.png">
+  <code>swift</code> <code>pixels</code> <code>keys</code>
 </p>
 
 <br>
 
 <p align="center">
-  <sub><i>less is more</i></sub>
+  <img src="assets/dot.gif" width="200">
 </p>
 
+<br>
+
 <p align="center">
-  <sub>laguser · 2026</sub>
+  <sub>less is more</sub>
 </p>
