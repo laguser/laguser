@@ -1,47 +1,30 @@
 <p align="center">
-  <img src="assets/avatar.png" width="80" alt="laguser">
+  <img src="assets/avatar.png" width="72" alt="laguser">
 </p>
 
 <h2 align="center">laguser</h2>
-
-<p align="center">
-  <i>craft, don't clutter</i>
-</p>
-
-<br>
+<p align="center"><i>craft, don't clutter</i></p>
 
 <p align="center">
   security research · offensive tooling · quiet interfaces
 </p>
 
-<br>
-
 <p align="center">
-  <a href="https://github.com/laguser/ink">Ink</a> — minimalist markdown editor<br>
-  <a href="https://github.com/laguser/bastion">Bastion</a> — Linux VPS hardening (UFW · Fail2Ban · sysctl · SSH)<br>
-  recon-pipeline — multi-stage GitHub Actions recon (WF1–WF5)
+  <a href="https://github.com/laguser/ink">Ink</a> ·
+  <a href="https://github.com/laguser/bastion">Bastion</a> ·
+  recon-pipeline
 </p>
 
-<br>
-
 <p align="center">
-  <code>swift</code> <code>python</code> <code>bash</code> <code>textual</code>
+  <code>python</code> <code>bash</code> <code>swift</code> <code>textual</code>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="assets/dot.gif" width="200">
+  <img src="assets/dot.gif" width="160">
 </p>
 
-<br>
-
 <p align="center">
-  Arch · Hyprland · Neovim · <sub>Catppuccin Mocha</sub>
+  Arch · Hyprland · Neovim · Catppuccin Mocha
 </p>
 
-<br>
-
-<p align="center">
-  <sub>less is more</sub>
-</p>
+<p align="center"><sub>less is more</sub></p>
