@@ -1,50 +1,82 @@
-<p align="center">
-  <img src="assets/avatar.png" width="84" style="border-radius: 50%;" alt="laguser avatar">
-</p>
+<div align="center">
 
-<h1 align="center">laguser</h1>
+  <img src="assets/avatar.png" width="96" style="border-radius: 50%;" alt="laguser avatar" />
 
-<p align="center">
-  <i>craft, don't clutter · systems & terminal tooling · minimalism</i>
-</p>
+  <h1>Nicolas (laguser)</h1>
 
-<p align="center">
-  <a href="https://t.me/lagusr"><img src="https://img.shields.io/badge/Telegram-@lagusr-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://crates.io/users/laguser"><img src="https://img.shields.io/badge/crates.io-laguser-DEA584?style=flat-square&logo=rust&logoColor=white" alt="Crates.io"></a>
-  <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-</p>
+  <p>
+    <b>craft, don't clutter</b> · systems & terminal tooling · linux rice enthusiast
+  </p>
+
+  <p>
+    <a href="https://t.me/lagusr"><img src="https://img.shields.io/badge/Telegram-@lagusr-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="https://crates.io/users/laguser"><img src="https://img.shields.io/badge/crates.io-laguser-DEA584?style=for-the-badge&logo=rust&logoColor=white" alt="Crates.io" /></a>
+    <img src="https://img.shields.io/badge/OS-CachyOS%20%2F%20Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+    <img src="https://img.shields.io/badge/WM-Hyprland-00C896?style=for-the-badge" alt="Hyprland" />
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=laguser&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Profile Views" />
+  </p>
+
+</div>
 
 ---
 
-### 🛠 Projects & Tools
+### ⚡ What I Build
 
-| Project | Description | Stack | Status |
+I build fast, keyboard-centric, zero-bloat CLI & TUI utilities, desktop tools, and Linux environments.
+
+| Project | Highlights | Stack | Status |
 | :--- | :--- | :---: | :---: |
-| [**`ttype`**](https://github.com/laguser/ttype) | Minimalist terminal typing speed test with conveyor tape & procedural switch sound synthesis | `Rust` `Ratatui` | [![crates.io](https://img.shields.io/crates/v/ttype-cli?style=flat-square&color=white)](https://crates.io/crates/ttype-cli) |
-| [**`soundcloud-tui`**](https://github.com/laguser/soundcloud-tui) | Distraction-free, keyboard-driven terminal SoundCloud streamer & audio player | `Rust` `mpv IPC` | [![Linux](https://img.shields.io/badge/platform-linux-lightgrey?style=flat-square)](https://github.com/laguser/soundcloud-tui) |
-| [**`achievault`**](https://github.com/GuardionSpend/achievault) | Native Steam Achievement Manager for Linux with real-time Steamworks synchronization | `Rust` `egui` | [![egui](https://img.shields.io/badge/GUI-egui-3b6ea5?style=flat-square)](https://github.com/GuardionSpend/achievault) |
-| [**`ink`**](https://github.com/laguser/ink) | Distraction-free, aesthetic terminal markdown editor | `CLI` `TUI` | ![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square) |
+| [**`ttype`**](https://github.com/laguser/ttype) | Minimalist terminal typing test with conveyor-tape display, multi-CDN wordlists & procedural switch sound synthesis | `Rust` `Ratatui` | [![crates.io](https://img.shields.io/crates/v/ttype-cli?style=flat-square&color=orange)](https://crates.io/crates/ttype-cli) [![downloads](https://img.shields.io/crates/d/ttype-cli?style=flat-square&color=blue)](https://crates.io/crates/ttype-cli) |
+| [**`soundcloud-tui`**](https://github.com/laguser/soundcloud-tui) | Distraction-free, keyboard-centric SoundCloud streamer & local audio player powered by asynchronous `mpv` IPC sockets | `Rust` `mpv` `yt-dlp` | [![Platform](https://img.shields.io/badge/platform-linux-lightgrey?style=flat-square)](https://github.com/laguser/soundcloud-tui) |
+| [**`achievault`**](https://github.com/GuardionSpend/achievault) | Lightweight, native Steam Achievement Manager for Linux with live Steamworks synchronization | `Rust` `egui` | [![egui](https://img.shields.io/badge/GUI-egui-3b6ea5?style=flat-square)](https://github.com/GuardionSpend/achievault) |
+| [**`ink`**](https://github.com/laguser/ink) | Minimalist modal markdown editor for writers and terminal habitués | `C` `CLI` `TUI` | [![Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)](https://github.com/laguser/ink) |
+| [**`bastion`**](https://github.com/laguser/bastion) | Automated Linux VPS hardening toolkit (UFW, Fail2Ban, sysctl kernel tweaks, SSH key auth) | `Shell` `Bash` | [![Linux](https://img.shields.io/badge/focus-hardening-red?style=flat-square)](https://github.com/laguser/bastion) |
 
 ---
 
-### 💻 Environment & Daily Drivers
+### 💻 Workspace & Setup
 
 ```ansi
-  OS       :: Arch Linux / CachyOS
-  WM       :: Hyprland (wayland)
-  Terminal :: Ghostty / Kitty
-  Shell    :: Fish / Zsh (Powerlevel10k)
-  Editor   :: Neovim (Lua-driven, pure modal)
-  Palette  :: Catppuccin Mocha / Monochrome
+  OS       :: CachyOS / Arch Linux (x86_64, Linux Zen/Cachy kernel)
+  WM       :: Hyprland (Wayland) + Quickshell / Waybar
+  Terminal :: Foot / Ghostty / Kitty
+  Shell    :: Fish & Zsh (Powerlevel10k)
+  Editor   :: Neovim (Lua config, custom LSP & Tree-sitter)
+  Theme    :: Catppuccin Mocha / Tokyo Night
+  Audio    :: Cava + MPV / soundcloud-tui / Spicetify
 ```
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laguser&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laguser&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" height="150" />
-</p>
+### 🧰 Tech Stack & Skills
 
 <p align="center">
-  <sub><i>"simplicity is the ultimate sophistication"</i></sub>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laguser&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6" height="155" alt="laguser GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laguser&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=7aa2f7&text_color=a9b1d6" height="155" alt="laguser Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laguser&theme=tokyonight&hide_border=true&background=00000000&stroke=7aa2f7&ring=7aa2f7&fire=ff9e64" alt="laguser Streak Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <sub><i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i></sub>
+</div>
