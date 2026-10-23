@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/avatar.png" width="96" style="border-radius: 50%;" alt="laguser avatar" />
+  <img src="assets/avatar.webp" width="96" style="border-radius: 50%;" alt="laguser avatar" />
 
   <h1>Nicolas (laguser)</h1>
 
