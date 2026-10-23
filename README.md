@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/avatar.webp" width="96" style="border-radius: 50%;" alt="laguser avatar" />
+  <img src="assets/avatar-loop.webp" width="96" style="border-radius: 50%;" alt="laguser avatar" />
 
   <h1>Nicolas (laguser)</h1>
 
@@ -39,13 +39,13 @@ I build fast, keyboard-centric, zero-bloat CLI & TUI utilities, desktop tools, a
 ### 💻 Workspace & Setup
 
 ```ansi
-  OS       :: CachyOS / Arch Linux (x86_64, Linux Zen/Cachy kernel)
-  WM       :: Hyprland (Wayland) + Quickshell / Waybar
-  Terminal :: Foot / Ghostty / Kitty
-  Shell    :: Fish & Zsh (Powerlevel10k)
-  Editor   :: Neovim (Lua config, custom LSP & Tree-sitter)
-  Theme    :: Catppuccin Mocha / Tokyo Night
-  Audio    :: Cava + MPV / soundcloud-tui / Spicetify
+  OS       :: CachyOS 
+  WM       :: Hyprland
+  Terminal :: Kitty
+  Shell    :: Fish
+  Editor   :: Neovim 
+  Theme    :: gruvbox
+  Audio    :: Cava + MPV / soundcloud-tui 
 ```
 
 ---
